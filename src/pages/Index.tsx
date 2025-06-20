@@ -12,6 +12,7 @@ import {
   ArrowRight,
   Mic,
   Phone,
+  UserPlus,
 } from "lucide-react";
 import Layout from "@/components/Layout";
 
